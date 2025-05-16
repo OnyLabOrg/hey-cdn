@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'https://cdn.hey.onylab.com/image/product/promo/');
+define('BASE_URL', 'https://cdn.hey.onylab.com/image/product/lacreperiedelagare/promo/');
 
 function endsWith( $haystack, $needle ) {
     $length = strlen( $needle );
